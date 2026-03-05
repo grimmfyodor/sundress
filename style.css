@@ -7,3 +7,16 @@
  	font-weight: 300;
 	font-style: normal
 }
+
+.text {
+	text-align: left;
+	max-width: 600px;
+	margin: 0 auto;
+	padding-left: 1rem;
+	border-left: 2px solid #eee;
+}
+
+.heading {
+	font-weight: 300;
+	text-align: center;
+}
